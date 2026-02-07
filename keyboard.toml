@@ -1,7 +1,9 @@
 [keyboard]
-name = "RMK Keyboard"
-vendor_id = 0x4c4b
-product_id = 0x4643
+name = "urchin-keyboard"
+product_name = "Clavier Urchin"
+vendor_id = 0xFEED
+product_id = 0x0001
+manufacturer = "Timothé"
 board = "nice!nano_v2"
 
 
